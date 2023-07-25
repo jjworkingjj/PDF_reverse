@@ -6,8 +6,8 @@ PDF頁面逆向排序腳本
 這個Python腳本可以將PDF文件的所有頁面逆向排序。
 先決條件
 在運行這個腳本之前，你需要滿足以下先決條件：
-Python 3.x：確保你的計算機上安裝了Python 3.x版本。你可以從Python官方網站（https://www.python.org）下載並安裝最新的Python版本。
-PyPDF2庫：這個腳本使用了PyPDF2庫來處理PDF文件。你可以使用以下命令來安裝PyPDF2庫：
+  Python 3.x：確保你的計算機上安裝了Python 3.x版本。你可以從Python官方網站（https://www.python.org）下載並安裝最新的Python版本。
+  PyPDF2庫：這個腳本使用了PyPDF2庫來處理PDF文件。你可以使用以下命令來安裝PyPDF2庫：
 
 
   pip install PyPDF2
